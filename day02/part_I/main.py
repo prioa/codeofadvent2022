@@ -16,7 +16,7 @@
 # points for result
 # 0 = lost
 # 3 = draw
-# 6 = won
+# 6 = won 
 
 score = 0
 
